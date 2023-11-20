@@ -1,0 +1,1 @@
+head -n +2 115_vep.maf | tail -n +2 > header.maf
